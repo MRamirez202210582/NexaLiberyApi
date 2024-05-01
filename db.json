@@ -100,5 +100,43 @@
       "author": "Gabriel García Márquez",
       "shortDescription": "Una historia épica de amor que se extiende por más de medio siglo entre Fermina Daza y Florentino Ariza en la costa caribeña de Colombia."
     }
+  ],
+  "Library": [
+    {
+      "id": 1,
+      "title": "El Código da Vinci",
+      "author": "Dan Brown",
+      "shortDescription": "El libro El código Da Vinci de Dan Brown es considerado por muchos, un libro blasfemo, causó una gran controversia en sus lectores cuando lo leyeron por primera vez, lleno de misticismo, ocultismo e historia llamativa lo convirtieron en un bestseller en su momento."
+    },
+    {
+      "id": 2,
+      "title": "El señor de los anillos",
+      "author": "J.R.R. Tolkien",
+      "shortDescription": "El Señor de los anillos es una novela ganadora de muchos premios, una joya literaria sin duda alguna. En esta ocasión traemos para ti una versión conmemorativa a causa del centenario de su autor."
+    },
+    {
+      "id": 3,
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "shortDescription": "El Principito es la obra consagratoria del autor Saint Exupery, quien fuese piloto de avión es sus tiempos de vida, fue la última que escribió, y lo hizo un año antes de morir en un accidente de avión, es una novela con mucha sabiduría en cada página."
+    },
+    {
+      "id": 4,
+      "title": "El Alquimista",
+      "author": "Paulo Coelho",
+      "shortDescription": "El Alquimista es una obra fundamental en el mundo de la literatura. La historia es capaz de mostrarte el lado espiritual y filosófico de la vida por medio de un joven que busca su 'leyenda personal'."
+    },
+    {
+      "id": 5,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "shortDescription": "Es una de las novelas más importantes de la literatura latinoamericana y mundial, que narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo."
+    },
+    {
+      "id": 6,
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "shortDescription": "Este clásico de la literatura, ofrece una de las historias más divertidas y profundas de la literatura universal, sigue las aventuras del ingenioso hidalgo y su escudero Sancho Panza."
+    }
   ]
 }
