@@ -63,7 +63,7 @@
       "shortDescription": "Personas reales, historias reales. Este podcast presenta narraciones auténticas contadas en vivo sin notas."
     }
   ],
-  "Videos": [
+  "Multimedia": [
     {
       "id": 1,
       "title": "La increíble historia de la librería El Ateneo Grand Splendid",
@@ -81,23 +81,21 @@
       "title": "Historia de la Biblioteca Vasconcelos",
       "author": "Historia Mexicana",
       "shortDescription": "Descubre la historia y arquitectura de la Biblioteca Vasconcelos en Ciudad de México, un moderno templo del saber que alberga más de 500 mil libros."
-    }
-  ],
-  "Audiobooks": [
+    },
     {
-      "id": 1,
+      "id": 4,
       "title": "Cien años de soledad",
       "author": "Gabriel García Márquez",
       "shortDescription": "Audilibro de la obra maestra del realismo mágico que narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo."
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "La Sombra del Viento",
       "author": "Carlos Ruiz Zafón",
       "shortDescription": "Este audiolibro te lleva por las calles de la Barcelona de posguerra, siguiendo un misterio literario a través de un libro maldito y la vida de quienes lo rodean."
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "El amor en los tiempos del cólera",
       "author": "Gabriel García Márquez",
       "shortDescription": "Una historia épica de amor que se extiende por más de medio siglo entre Fermina Daza y Florentino Ariza en la costa caribeña de Colombia."
